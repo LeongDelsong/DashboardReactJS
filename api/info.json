@@ -1,0 +1,213 @@
+{
+    "cards": [
+        {
+            "_id": 1,
+            "name": "Sales",
+            "icon":"bi bi-cart",
+            "amount": 145,
+            "percentage":0.12,
+            "active":true
+
+
+        },
+        {
+            "_id": 2,
+            "name": "Revenue",
+            "icon":"bi bi-currency-dollar",
+            "amount": 3246,
+            "percentage":0.08,
+            "active":false
+
+
+        },
+        {
+            "_id": 3,
+            "name": "Customers",
+            "icon":"bi bi-people",
+            "amount": 1244,
+            "percentage":-0.11,
+            "active":false
+        }
+    ],
+    "news":[
+        {
+            "_id":1,
+            "img":"../DashboardApp/src/assets/",
+            "title":"nihil blanditiis at in inhil autem",
+            "subtitle":"sit recasumban non labotram",
+            "category": "abc"
+        },
+        {
+            "_id":2,
+            "img":"../DashboardApp/src/assets/",
+            "title":" blanditiis at in inhil nirvada",
+            "subtitle":" recasumban queto non labotram",
+            "category": "abc"
+        },
+        {
+            "_id":3,
+            "img":"../DashboardApp/src/assets/",
+            "title":"illo",
+            "subtitle":" non labotram omahyt",
+            "category": "abc"
+        },
+        {
+            "_id":4,
+            "img":"../DashboardApp/src/assets/",
+            "title":"nihil blanditiis at in inhil autem",
+            "subtitle":"casumban non labotram",
+            "category": "abc"
+        },
+        {
+            "_id":5,
+            "img":"../DashboardApp/src/assets/",
+            "title":"in inhil autem blabla",
+            "subtitle":" labotram rectum nirlamin",
+            "category": "abc"
+        }
+    ],
+    "topselling":[
+        {
+            "_id":1,
+            "preview":"../DashboardApp/src/assets/",
+            "name": "Ut inventor ipsa vuloptas nulla",
+            "price":64,
+            "sold":124
+        },
+        {
+            "_id":2,
+            "preview":"../DashboardApp/src/assets/",
+            "name": "Exertationa similique doloreaue",
+            "price":46,
+            "sold":98
+        },
+        {
+            "_id":3,
+            "preview":"../DashboardApp/src/assets/",
+            "name": "major ipsa vuloptas nulla",
+            "price":59,
+            "sold":74
+        },
+        {
+            "_id":4,
+            "preview":"../DashboardApp/src/assets/",
+            "name": "eliquampo deporque nulla",
+            "price":64,
+            "sold":98
+        },
+        {
+            "_id":5,
+            "preview":"../DashboardApp/src/assets/",
+            "name": " inventor ipsa vuloptas nulla",
+            "price":79,
+            "sold":41
+        }
+    ],
+    "recentsales":[
+        {
+            "_id":1,
+            "number":"#2457",
+            "customer":"John Smith",
+            "product": "At preasentium minu",
+            "price":64,
+            "status":"Approved"
+        },
+        {
+            "_id":2,
+            "number":"#2459",
+            "customer":"Larva Smith",
+            "product": "tae preasentium iptum",
+            "price":85,
+            "status":"Rejected"
+        },
+        {
+            "_id":3,
+            "number":"#2644",
+            "customer":"James Bond",
+            "product": "preasentium At minu",
+            "price":188,
+            "status":"Approved"
+        },
+        {
+            "_id":4,
+            "number":"#2454",
+            "customer":"Ace Lucas",
+            "product": "At minu preasentium ",
+            "price":98,
+            "status":"Rejected"
+        },
+        {
+            "_id":5,
+            "number":"#2487",
+            "customer":"Reacorn Paul",
+            "product": "minu preasentium ",
+            "price":68,
+            "status":"Approved"
+        }
+    ],
+    "recentactivity":[
+        {
+            "_id":1,
+            "time":"32 min",
+            "color":"text-success",
+            "content": "ipsun main hierl namain",
+            "highlight":"explicabo officillis"
+        },
+        {
+            "_id":2,
+            "time":"40 min",
+            "color":"text-danger",
+            "content": " hierl nirvado namain",
+            "highlight":""
+        },
+        {
+            "_id":3,
+            "time":"2 hrs",
+            "color":"text-primary",
+            "content": "volupt updates molestica",
+            "highlight":""
+        },
+        {
+            "_id":4,
+            "time":"1 day",
+            "color":"text-info",
+            "content": "Tempore corrupt saepe occaecati ",
+            "highlight":"occaecati viluptatem"
+        },
+        {
+            "_id":5,
+            "time":"2 days",
+            "color":"text-warning",
+            "content": "est sit eum reiciemdis exercitarionem",
+            "highlight":""
+        },
+        {
+            "_id":6,
+            "time":"4 weeks",
+            "color":"text-muted",
+            "content": "Dicta dolore harum eilus. Ut quidem quidem sit quas",
+            "highlight":""
+        }
+        
+    ]
+}    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
